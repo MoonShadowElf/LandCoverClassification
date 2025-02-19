@@ -1,2 +1,2 @@
 # LandCoverClassification
-GWC Challenge 2025 Submission - AI + Sustainability
+Anjali - GWC Challenge 2025 Submission - AI + Sustainability
